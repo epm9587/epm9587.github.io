@@ -3,8 +3,8 @@
 Hello, I am Eli MacDonald I went to Abington Senior High School in Abington Pennsylvania. In my free time I enjoy playing video games and riding my skateboard. 
 
 ### Favorite food
-
-Here is a picture of one of my favorite foods, [cheese cake](cheesecake.jpg)
+0
+Here is a picture of one of my favorite foods cheese cake: [Image](cheesecake.jpg)
 # Header 1
 ## Header 2
 ### Header 3
