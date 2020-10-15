@@ -1,6 +1,6 @@
 ## About me
 
-Hello, I am Eli MacDonald I went to Abington Senior High School in Abington Pennsylvania. In my free time I enjoy playing video games, riding my skateboard, and spending time with my friends. 
+Hello, I am Eli MacDonald I went to Abington Senior High School in Abington Pennsylvania. In my free time I enjoy playing video games and riding my skateboard. 
 
 ### Favorite food
 
