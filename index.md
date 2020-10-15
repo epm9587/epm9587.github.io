@@ -5,29 +5,12 @@ Hello, I am Eli MacDonald I went to Abington Senior High School in Abington Penn
 ### Favorite food
 0
 Here is a picture of one of my favorite foods cheese cake: [Image](cheesecake.jpg)
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### SWEN 101 Course Site
 
 [Link](http://www.se.rit.edu/~swen-101/00/index.html)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/epm9587/epm9587.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### What I expect from the course
+-To learn about the engineering design method
+-To learn better practices for planning and creating software
+-Better understand both what I will do in this major and what is expected of me
